@@ -13,4 +13,4 @@ This project uses Natural Language Processing (NLP) to analyze resumes and extra
 - PyPDF2
 
 ## Author
-Tanush Sharma
+Tanuj Sharma
